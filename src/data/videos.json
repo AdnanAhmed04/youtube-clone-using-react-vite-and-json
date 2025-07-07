@@ -2,7 +2,7 @@
   {
     "id": "1",
     "title": "Learn React in 10 Minutes",
-    "thumbnail": "./1.jpeg",
+    "thumbnail": "/1.jpeg",
     "channel": "Sonny",
     "views": "1.2M",
     "category": "Education"
@@ -36,37 +36,33 @@
     "title": "Learn React in 10 Minutes",
     "thumbnail": "/5.jpeg",
     "channel": "Programming",
-    "views": "510k",
-    "category": "Music"
-  }
-  ,
+    "views": "510K",
+    "category": "Learning"
+  },
   {
     "id": "6",
     "title": "Civic Restoration",
     "thumbnail": "/6.jpeg",
     "channel": "Restoration",
-    "views": "2k",
-    "category": "Music"
-  }
-  ,
+    "views": "2K",
+    "category": "Automobile"
+  },
   {
     "id": "7",
     "title": "OOPs in python",
     "thumbnail": "/7.jpeg",
     "channel": "Programming",
     "views": "2M",
-    "category": "Music"
-  }
-  ,
+    "category": "Learning"
+  },
   {
     "id": "8",
     "title": "Man United V Norwich",
     "thumbnail": "/8.avif",
     "channel": "Sonny",
     "views": "2M",
-    "category": "Game"
-  }
-  ,
+    "category": "Gaming"
+  },
   {
     "id": "9",
     "title": "Surah Kahf",
@@ -74,35 +70,31 @@
     "channel": "Truthful Muslim",
     "views": "220M",
     "category": "Quran"
-  }
-  ,
+  },
   {
     "id": "10",
-    "title": "Portugal v Spain | FIFA World Cup ",
+    "title": "Portugal v Spain | FIFA World Cup",
     "thumbnail": "/10.jpeg",
     "channel": "Sonny",
     "views": "2M",
-    "category": "Music"
-  }
-  ,
+    "category": "Gaming"
+  },
   {
     "id": "11",
     "title": "Best of Lofi Music",
     "thumbnail": "/11.jpeg",
     "channel": "Lofi World",
     "views": "2M",
-    "category": "Music"
-  }
-  ,
+    "category": "Automobile"
+  },
   {
     "id": "12",
-    "title": " Hyundai Sonata vs 2023 Honda Accord ",
+    "title": "Hyundai Sonata vs 2023 Honda Accord",
     "thumbnail": "/12.jpg",
     "channel": "Lofi World",
     "views": "2M",
     "category": "Car"
-  }
-  ,
+  },
   {
     "id": "13",
     "title": "Mern Stack Web Development",
@@ -111,5 +103,4 @@
     "views": "1M",
     "category": "Education"
   }
-  
 ]

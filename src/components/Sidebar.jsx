@@ -3,7 +3,7 @@ import { useNavigate } from 'react-router-dom';
 import { MoreVertical } from 'lucide-react'; 
 
 const categories1 = ['Home', 'Shorts', 'Subscription'];
-const categories2 = ['Trending', 'Music', 'Gaming'];
+const categories2 = ['Trending', 'Education', 'Gaming'];
 
 const Sidebar = () => {
   const navigate = useNavigate();
