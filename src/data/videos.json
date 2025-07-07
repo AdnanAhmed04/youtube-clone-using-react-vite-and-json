@@ -3,7 +3,7 @@
     "id": "1",
     "title": "Learn React in 10 Minutes",
     "thumbnail": "./1.jpeg",
-    "channel": "Adnan Codes",
+    "channel": "Sonny",
     "views": "1.2M",
     "category": "Education"
   },
@@ -11,7 +11,7 @@
     "id": "2",
     "title": "Top 10 Gaming Plays",
     "thumbnail": "/2.jpeg",
-    "channel": "GamerZone",
+    "channel": "Sonny",
     "views": "900K",
     "category": "Gaming"
   },
@@ -19,68 +19,68 @@
     "id": "3",
     "title": "React Tip in 30 Seconds",
     "thumbnail": "/3.png",
-    "channel": "Quick Dev",
+    "channel": "GamerZone",
     "views": "500K",
     "category": "Shorts"
   },
   {
     "id": "4",
-    "title": "CSS Grid vs Flexbox",
+    "title": "Dr Israr Ahmed",
     "thumbnail": "/4.jpeg",
-    "channel": "Frontend Mastery",
-    "views": "620K",
+    "channel": "Truthful Muslim",
+    "views": "620M",
     "category": "Education"
   },
   {
     "id": "5",
-    "title": "Best of Lofi Music",
-    "thumbnail": "https://img.youtube.com/vi/5/default.jpg",
-    "channel": "Lofi World",
-    "views": "2M",
+    "title": "Learn React in 10 Minutes",
+    "thumbnail": "/5.jpeg",
+    "channel": "Programming",
+    "views": "510k",
     "category": "Music"
   }
   ,
   {
     "id": "6",
-    "title": "Best of Lofi Music",
-    "thumbnail": "https://img.youtube.com/vi/5/default.jpg",
-    "channel": "Lofi World",
-    "views": "2M",
+    "title": "Civic Restoration",
+    "thumbnail": "/6.jpeg",
+    "channel": "Restoration",
+    "views": "2k",
     "category": "Music"
   }
   ,
   {
     "id": "7",
-    "title": "Best of Lofi Music",
-    "thumbnail": "https://img.youtube.com/vi/5/default.jpg",
-    "channel": "Lofi World",
+    "title": "OOPs in python",
+    "thumbnail": "/7.jpeg",
+    "channel": "Programming",
     "views": "2M",
     "category": "Music"
   }
   ,
   {
     "id": "8",
-    "title": "Best of Lofi Music",
-    "thumbnail": "https://img.youtube.com/vi/5/default.jpg",
-    "channel": "Lofi World",
+    "title": "Man United V Norwich",
+    "thumbnail": "/8.avif",
+    "channel": "Sonny",
     "views": "2M",
-    "category": "Music"
+    "category": "Game"
   }
   ,
   {
     "id": "9",
-    "title": "Best of Lofi Music",
-    "thumbnail": "https://img.youtube.com/vi/5/default.jpg",
-    "channel": "Lofi World",
-    "views": "2M",
-    "category": "Music"
+    "title": "Surah Kahf",
+    "thumbnail": "/9.jpeg",
+    "channel": "Truthful Muslim",
+    "views": "220M",
+    "category": "Quran"
   }
   ,
   {
     "id": "10",
-    "title": "Best of Lofi Music",
-    "thumbnail": "https://img.youtube.com/vi/5/default.jpg",
-    "channel": "Lofi World",
+    "title": "Portugal v Spain | FIFA World Cup ",
+    "thumbnail": "/10.jpeg",
+    "channel": "Sonny",
     "views": "2M",
     "category": "Music"
   }
@@ -88,7 +88,7 @@
   {
     "id": "11",
     "title": "Best of Lofi Music",
-    "thumbnail": "https://img.youtube.com/vi/5/default.jpg",
+    "thumbnail": "/11.jpeg",
     "channel": "Lofi World",
     "views": "2M",
     "category": "Music"
@@ -96,20 +96,20 @@
   ,
   {
     "id": "12",
-    "title": "Best of Lofi Music",
-    "thumbnail": "https://img.youtube.com/vi/5/default.jpg",
+    "title": " Hyundai Sonata vs 2023 Honda Accord ",
+    "thumbnail": "/12.jpg",
     "channel": "Lofi World",
     "views": "2M",
-    "category": "Music"
+    "category": "Car"
   }
   ,
   {
     "id": "13",
-    "title": "Best of Lofi Music",
-    "thumbnail": "https://img.youtube.com/vi/5/default.jpg",
-    "channel": "Lofi World",
-    "views": "2M",
-    "category": "Music"
+    "title": "Mern Stack Web Development",
+    "thumbnail": "/13.jpeg",
+    "channel": "Programming",
+    "views": "1M",
+    "category": "Education"
   }
   
 ]
