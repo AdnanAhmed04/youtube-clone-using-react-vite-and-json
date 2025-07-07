@@ -2,7 +2,7 @@
   {
     "id": "1",
     "title": "Learn React in 10 Minutes",
-    "thumbnail": "../../public/1.jpeg",
+    "thumbnail": "./1.jpeg",
     "channel": "Adnan Codes",
     "views": "1.2M",
     "category": "Education"
@@ -10,7 +10,7 @@
   {
     "id": "2",
     "title": "Top 10 Gaming Plays",
-    "thumbnail": "../../public/2.jpeg",
+    "thumbnail": "/2.jpeg",
     "channel": "GamerZone",
     "views": "900K",
     "category": "Gaming"
@@ -18,7 +18,7 @@
   {
     "id": "3",
     "title": "React Tip in 30 Seconds",
-    "thumbnail": "../../public/3.png",
+    "thumbnail": "/3.png",
     "channel": "Quick Dev",
     "views": "500K",
     "category": "Shorts"
@@ -26,7 +26,7 @@
   {
     "id": "4",
     "title": "CSS Grid vs Flexbox",
-    "thumbnail": "../../public/4.jpeg",
+    "thumbnail": "/4.jpeg",
     "channel": "Frontend Mastery",
     "views": "620K",
     "category": "Education"
